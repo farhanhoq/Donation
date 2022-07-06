@@ -63,10 +63,15 @@ h3{
 }
 .donate-button2{
     text-decoration: none;
-        color: whitesmoke;
-        background-image: linear-gradient(to top right, rgb(205, 87, 87), rgb(205, 87, 87));
-        font-size: 80%;
-        border-radius: 5px;
-        margin: 10px 600px;
-        padding: 1px 5px;
+    color: whitesmoke;
+    background-image: linear-gradient(to top right, rgb(205, 87, 87), rgb(205, 87, 87));
+    font-size: 80%;
+    border-radius: 5px;
+    text-align: center;
+    width: 6%;
+    margin: auto;
+    margin-top: 10px;
+}
+h4{
+    padding: 10px 5px;
 }
