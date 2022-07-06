@@ -137,6 +137,7 @@ h4{
 .news{
     display: flex;
     justify-content:center;
+    padding-bottom: 30px;
 }
 .read img{
     width: 200px;
